@@ -10,5 +10,8 @@ No more annoying typing — getting the password shown on screen saves it to SRA
 Explore without grind  
 [invincibility\_and\_no\_timeouts.ips](invincibility_and_no_timeouts.ips)
 
+## Select+UP completes mission at 100%
+[select\_up\_completes\_mission.ips](select_up_completes_mission.ips)
+
 ___
 Tested on 3DS hardware in [native GBA HW mode](https://github.com/profi200/open_agb_firm) and mGBA
