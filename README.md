@@ -6,6 +6,10 @@ _for AGB-AIFE-USA_
 No more annoying typing — getting the password shown on screen saves it to SRAM  
 [save\_to\_sram.ips](save_to_sram.ips)
 
+## Faster screen fade out
+Because next screen/level begins loading only after screen fades out  
+[faster\_screen\_fades.ips](faster_screen_fades.ips)
+
 ## Invincibility and no mission timeouts
 Explore without grind  
 [invincibility\_and\_no\_timeouts.ips](invincibility_and_no_timeouts.ips)
