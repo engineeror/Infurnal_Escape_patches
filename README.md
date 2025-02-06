@@ -6,6 +6,11 @@ _for AGB-AIFE-USA_
 No more annoying typing — getting the password shown on screen saves it to SRAM  
 [save\_to\_sram.ips](save_to_sram.ips)
 
+## Swap A & B
+I guess they thought jumping while holding the burning bat would be more comfortable?    
+_For melee and jumping only — menu mappings remain the same_  
+[swap\_a\_b.ips](swap_a_b.ips)
+
 ## Faster screen fade out
 Because next screen/level begins loading only after screen fades out  
 [faster\_screen\_fades.ips](faster_screen_fades.ips)
